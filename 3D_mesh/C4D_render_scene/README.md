@@ -1,6 +1,6 @@
 # C4D render scene
 
-Canjia Huang <<canjia7@gmail.com>> last update 24/2/2025
+Canjia Huang <<canjia7@gmail.com>> last update 25/2/2025
 
 ![teaserfigure](.pic/teaserfigure.png)
 
