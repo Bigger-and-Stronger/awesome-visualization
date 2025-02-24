@@ -2,7 +2,7 @@
 
 A repo that records data visualization methods and rendering case studies related to computer graphics.
 
-@Bigger and Stronger Group
+@Bigger-and-Stronger Group
 
 # 可视化与渲染方法记录
 
@@ -12,4 +12,5 @@ A repo that records data visualization methods and rendering case studies relate
 
 # Content
 - [3D mesh](3D_mesh/README.md)
-  - [C4D rendering scene](3D_mesh/C4D_rendering_scene/README.md)
+  - [C4D render scene](3D_mesh/C4D_render_scene/README.md)
+    ![C4D render scene teaserfigure](3D_mesh/C4D_render_scene/.pic/teaserfigure.png)
