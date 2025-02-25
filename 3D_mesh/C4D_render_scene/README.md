@@ -26,7 +26,7 @@ Canjia Huang <<canjia7@gmail.com>> last update 25/2/2025
 
 渲染结果见 teaserfigure left
 
-# 案例 1（透明度渲染）
+# 案例 1（透明模型渲染）
 
 操作步骤：
 1. 将材质球 **transparent_blue** 拖动到模型 **285605_res** 的材质上，进行材质替换
@@ -35,7 +35,7 @@ Canjia Huang <<canjia7@gmail.com>> last update 25/2/2025
 
 渲染结果见 teaserfigure mid
 
-# 案例 2 （网格边渲染）
+# 案例 2（网格边渲染）
 
 操作步骤：
 1. 按住 `Ctrl` 的同时将模型 **285605_res** 拖动到晶格对象 **edge** 上，以创建模型的复制并添加晶格效果
