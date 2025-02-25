@@ -1,4 +1,4 @@
-# :heart_eyes: Awesome Visualization
+# :bar_chart: Awesome Visualization
 
 A repo that records data visualization methods and rendering case studies related to computer graphics.
 
