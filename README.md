@@ -11,6 +11,6 @@ A repo that records data visualization methods and rendering case studies relate
 @做大做强小组
 
 # Content
-- [3D mesh](3D_mesh/README.md)
-  - [C4D render scene](3D_mesh/C4D_render_scene/README.md)
+- [3D mesh](3D_mesh)
+  - [C4D render scene](3D_mesh/C4D_render_scene)
     ![C4D render scene teaserfigure](3D_mesh/C4D_render_scene/.pic/teaserfigure.png)

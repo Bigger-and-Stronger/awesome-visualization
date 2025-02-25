@@ -13,7 +13,7 @@ Canjia Huang <<canjia7@gmail.com>> last update 25/2/2025
 
 # Quick start
 
-打开该目录下的 **render_scene.c4d** 文件，界面如下：
+打开该目录下的 [**render_scene.c4d**](render_scene.c4d) 文件，界面如下：
 
 ![figure1](.pic/figure1.png)
 
