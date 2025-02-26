@@ -4,11 +4,11 @@ A repo that records data visualization methods and rendering case studies relate
 
 @Bigger-and-Stronger Group
 
-# 可视化与渲染方法记录
+# 鍙鍖栦笌娓叉煋鏂规硶璁板綍
 
-记录计算机图形学中的各种数据的可视化及渲染的方法、相关工具的使用、以及各种案例分享等
+璁板綍璁＄畻鏈哄浘褰㈠涓殑鍚勭鏁版嵁鐨勫彲瑙嗗寲鍙婃覆鏌撶殑鏂规硶銆佺浉鍏冲伐鍏风殑浣跨敤銆佷互鍙婂悇绉嶆渚嬪垎浜瓑
 
-@做大做强小组
+@鍋氬ぇ鍋氬己灏忕粍
 
 # Content
 
