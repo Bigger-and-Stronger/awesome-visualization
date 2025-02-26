@@ -12,9 +12,9 @@ A repo that records data visualization methods and rendering case studies relate
 
 # Content
 
-- [3D mesh](3D_mesh)
-  - [C4D render scene](3D_mesh/C4D_render_scene)
-    ![C4D render scene teaserfigure](3D_mesh/C4D_render_scene/.pic/teaserfigure.png)
+- [3D mesh](3D-mesh)
+  - [C4D render scene](3D-mesh/C4D-render-scene)
+    ![C4D render scene teaserfigure](3D-mesh/C4D-render-scene/.pic/teaserfigure.png)
 
  # Contributors
 
