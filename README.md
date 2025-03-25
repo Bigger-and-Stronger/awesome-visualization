@@ -16,6 +16,10 @@ A repo that records data visualization methods and rendering case studies relate
   - [C4D render scene](3D-mesh/C4D-render-scene)
     ![C4D render scene teaserfigure](3D-mesh/C4D-render-scene/.pic/teaserfigure.png)
 
+- [neur field](neur-field)
+  - [vis neur sdf iso](neur-field/vis-neur-sdf-iso)
+    ![vis neur sdf iso](neur-field/vis-neur-sdf-iso/.assets/newplot.png)
+
  # Contributors
 
 <a href="https://contributors-img.web.app/image?repo=Bigger-and-Stronger/awesome-visualization">
