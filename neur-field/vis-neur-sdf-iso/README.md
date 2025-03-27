@@ -4,6 +4,8 @@
 
 这是一个可视化神经符号距离场的一些代码，目前我只加入了可视化等值面切片功能。代码部分来自于文章[*NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature*]，预训练的 pytorch 模型来自于文章[*1‐Lipschitz Neural Distance Fields*]。
 
+![fandisk-1-lip-sdf](.assets/newplot.png)
+
 ---
 
 ### 使用
