@@ -19,7 +19,9 @@ python vis_neural_sdf_iso.py -i /path/to/input.pt -o /path/to/output.html
 ---
 
 ### 可能的一些问题
+
 Q1：如何获得 pytorch 模型？
+
 A1：查看你的代码，以 *NeurCADRecon* 为例，在调用模型之前加入：
 ```python
 # 保存模型
@@ -82,6 +84,7 @@ def load_model(path, device:str):
 总之 `torch.jit.trace` 的是一个可以直接调用的模型。
 
 Q2：我使用保存的模型参数作为输入可以吗？
+
 A2：不可以。保存的模型参数需要结合网络结构才可以调用。
 
 ---
