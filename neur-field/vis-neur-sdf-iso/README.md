@@ -43,7 +43,7 @@ traced_script_module.save(output_dir)
 
 # 保存模型参数
 path = os.path.join(config.output_folder, "model_final.pt")
-    save_model(model, path)
+save_model(model, path)
 
 def save_model(model, path):
     data = { "id": model.id, "meta" : model.meta, "state_dict" : model.state_dict()}
