@@ -12,7 +12,7 @@
 - 输出：一个 html 文件，可以用浏览器打开。
 
   
-```python
+```bash
 python vis_neural_sdf_iso.py -i /path/to/input.pt -o /path/to/output.html
 ```
 
